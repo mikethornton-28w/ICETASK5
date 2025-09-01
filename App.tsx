@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
   },
   currentIcon:{
     marginTop: 8,
+    color: "blue"
   },
   subtitle:{
     fontSize: 16,
